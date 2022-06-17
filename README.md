@@ -7,4 +7,6 @@ I obtained a master's degree in Language Technology from Uppsala University.
 Many things! Either for my own curiousity or to create tools that will help others to work smarter.
 Mostly working on models and tools in NLP, neural search, QA, and generative models.
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelynkyl/)
+### Contact
+-----------------------------
+- [Linkedin](https://www.linkedin.com/in/evelynkyl/)

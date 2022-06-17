@@ -1,5 +1,5 @@
 ### Hi there
-I work on Natural Language Processing and Machine Learning, with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, recommendation system, as well as semantic parsing.
+I work on Natural Language Processing and Machine Learning, with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, as well as recommendation systems.
 I obtained a master's degree in Language Technology from Uppsala University.
 
 🔭 Currently working on

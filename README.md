@@ -7,6 +7,7 @@ I obtained a master's degree in Language Technology from Uppsala University.
 Many things! Either for my own curiousity or to create tools that will help others in different aspects. Mostly working on models and tools in NLP, neural search, QA, and generative models.
 
 🤝 Collaboration
+
 I'm open to colloboarate on research and projects regarding NLP or ML :) Feel free to reach out to me!
 
 ### Contact

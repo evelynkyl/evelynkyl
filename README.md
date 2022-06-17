@@ -1,0 +1,10 @@
+### Hi there
+I work on Natural Language Processing and Machine Learning, with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, recommendation system, as well as semantic parsing.
+I obtained a master's degree in Language Technology from Uppsala University.
+
+🔭 Currently working on
+
+Many things! Either for my own curiousity or to create tools that will help others to work smarter.
+Mostly working on models and tools in NLP, neural search, QA, and generative models.
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelynkyl/)

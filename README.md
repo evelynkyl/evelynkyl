@@ -1,6 +1,6 @@
 ### Hi there
-I work on Natural Language Processing (NLP) and Machine Learning (ML), with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, as well as recommendation systems.
 I obtained a master's degree in Language Technology from Uppsala University.
+I work on Natural Language Processing (NLP) and Machine Learning (ML), with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, as well as recommendation systems. I am keen to create accessible, robust resources and tools for human languages by leveraging programming languages and artificial intelligence. In addition, I am interested in exploring different applications of NLP and ML on other domains, such as mental healthcare and literature.
 
 🔭 Working on
 
@@ -8,7 +8,7 @@ Many things! Either for my own curiousity or to create tools that will help othe
 
 🤝 Collaboration
 
-I'm open to colloboarate on research and projects regarding NLP or ML :) Feel free to reach out to me!
+I'm open to collaborate on research and projects regarding NLP or ML :) Feel free to reach out to me!
 
 ### Contact
 - [Linkedin](https://www.linkedin.com/in/evelynkyl/)

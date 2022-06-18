@@ -1,5 +1,5 @@
 ### Hi there!
-I have obtained a master's degree in Language Technology from Uppsala University. I work on Natural Language Processing (NLP) and Machine Learning (ML), with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, as well as recommendation systems. 
+I work on Natural Language Processing (NLP) and Machine Learning (ML), with a focus on Natural Language Generation such as Question Answering (QA) and dialogue systems, Multilingual NLP, information retrieval and extraction, as well as recommendation systems. 
 
 I am keen to create accessible, robust resources and tools for various human languages by leveraging programming languages and artificial intelligence. Besides, I am also interested in exploring different applications of NLP and ML on other domains, such as mental healthcare, cognitive science, and literature.
 

@@ -10,5 +10,5 @@ Many things! Either for my own curiousity or to create tools that will help othe
 I'm always open to collaborate on research and projects regarding NLP or ML :) Feel free to reach out to me!
 
 ### Contact
-I'm best reached via [email](mailto:evelyn.kyliu.uu@gmail.com). Or else [Linkedin](https://www.linkedin.com/in/evelynkyl/).
+I'm best reached via [email](mailto:evelyn.kyliu.uu@gmail.com). Or else via [Linkedin](https://www.linkedin.com/in/evelynkyl/).
 

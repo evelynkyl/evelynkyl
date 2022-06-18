@@ -7,8 +7,8 @@ Many things! Either for my own curiousity or to create tools that will help othe
 
 🤝 Collaboration
 
-I'm open to collaborate on research and projects regarding NLP or ML :) Feel free to reach out to me!
+I'm always open to collaborate on research and projects regarding NLP or ML :) Feel free to reach out to me!
 
 ### Contact
-- [Linkedin](https://www.linkedin.com/in/evelynkyl/)
-- [email](mailto:evelyn.kyliu.uu@gmail.com)
+I'm best reached via [email](mailto:evelyn.kyliu.uu@gmail.com). Or else [Linkedin](https://www.linkedin.com/in/evelynkyl/).
+

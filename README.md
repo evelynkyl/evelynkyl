@@ -5,7 +5,7 @@ I am keen to create accessible, robust resources and tools for human languages b
 
 🔭 Working on
 
-Many things! Either for my own curiousity or to create tools that will help others in different aspects. Mostly working on models and tools in NLP, neural search, QA, and generative models.
+Many things! Either for my own curiosity or to create tools that will help others in different aspects. Mostly working on models and tools in NLP, neural search, QA, and generative models.
 
 🤝 Collaboration
 

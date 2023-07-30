@@ -7,10 +7,6 @@ I am keen to create accessible, robust resources and tools for various human lan
 
 Many things! Either for my own curiosity or to create tools that will help others in different aspects. Mostly working on models and tools in NLP, neural search, QA, and generative models.
 
-🤝 Collaboration
-
-I'm always open to collaborate on research and projects regarding NLP or ML :) Feel free to reach out to me!
-
 ### Contact
 I'm best reached via [email](mailto:evelyn.kyliu.uu@gmail.com). Or else via [Linkedin](https://www.linkedin.com/in/evelynkyl/).
 
